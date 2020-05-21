@@ -14,7 +14,7 @@ https://ropsten.etherscan.io/address/0xa300cdc8b672eed8ce3413d6714d39bed9241260
 
 ### Demo App
 
-Click [here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html/) to go to the PatentBlock application in your browser. There, you will find a link that connects your directly to the smart contract, which allows you to transacton the blockchain.
+Click [here](https://rhahn28.github.io/Patent_Blockchain/master/frontend/index.html/) to go to the PatentBlock application in your browser. There, you will find a link that connects your directly to the smart contract, which allows you to transacton the blockchain.
 
 
 ## Instructions 
