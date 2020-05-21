@@ -37,12 +37,12 @@ The smart contract is deployed on Ropsten, so you will need to get free test ETH
 
 ### IPFS
 
-To store files on-chain in an immutable and tamper-proof form for all time, we will use the Inter-Planetary File System using [Pinata.cloud](https://pinata.cloud/). Register on Pinata, and get your API keys from your Account profile. You will need those to upload files. Note that there is no restriction on file type. The filetypes can be .pdfs, .doc, .xls, .jpg, .anything. Size limit is 1 gigabyte.
+To store files on-chain in an immutable and tamper-proof form for all time, we will use the Inter-Planetary File System using [Pinata.cloud](https://pinata.cloud/). Register on Pinata, and get your API keys from your Account profile. You will need those to upload files. Note that there is no restriction on file type. The filetypes can be .pdf, .doc, .xls, .jpg, basically any file that can be hashed from bytecode. Size limit is currently 1 gigabyte.
 
 
 ### Recording transactions
 
-To record transactions to create an immutable record on the blockchain, navigate [Click here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html) and enter in your patent data. Once you've entered in your patent data, and API keys, click "Register To Blockchain" and wait for your new data to be mined. 
+To record transactions to create an immutable record on the blockchain, [Click here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html) and enter in your patent data. Once you've entered in your patent data and API keys, click "Register To Blockchain" and wait for your transaction to be mined by the Ethereum Virtual Machine. 
 
 ![image](screenshot1.PNG)
 
