@@ -47,7 +47,11 @@ If you want to view your uploaded files, got to [Pinata Explorer](https://pinata
 ![image](screenshot4.PNG)
 
 
-You're done! You now have a tamper-proof, immutable record of all your patent transactions on an auditable blockchain for all-time.
+
+
+You're done! You now have a tamper-proof, immutable record of all your patent transactions on an auditable blockchain for all-time. Congratulations!
 
 
 Roger C. Hahn ©
+
+rhahn@temburi.com
