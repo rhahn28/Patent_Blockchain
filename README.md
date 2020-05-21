@@ -14,6 +14,7 @@ If you want to jump right to the dApp, [click here](https://rhahn28.github.io/Pa
 
 ## Instructions 
 If you would like to record your patent and transact on this chain, please install Metamask and make sure MetaMask is on the Ropsten Test Network.
+
 ![image](screenshot2.PNG)
 
 
@@ -24,6 +25,7 @@ Install Metamask to your Chrome browser [here](https://chrome.google.com/webstor
 
 ### Ropsten Test Network
 The smart contract is deployed on Ropsten, so you will need to get free test ETH [here](https://faucet.ropsten.be/). This test ETH will be spent as "gas" to allow you to conduct transactions on the chain. Make sure to use a valid address that will receive the test ETH as shown below. If you don't have an address or wallet, you can get one from [MyCrypto](https://mycrypto.com/account)
+
 ![image](screenshot3.PNG)
 
 
@@ -33,6 +35,7 @@ To store files on-chain in an immutable and tamper-proof form for all time, we w
 
 ### Recording transactions
 To record transactions to create an immutable record on the blockchain, [Click here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html) and enter in your patent data. Once you've entered in your patent data and API keys, click "Register To Blockchain" and wait for your transaction to be mined by the Ethereum Virtual Machine. 
+
 ![image](screenshot1.PNG)
 
 View on etherscan [here](https://ropsten.etherscan.io/address/0xa300cdc8b672eed8ce3413d6714d39bed9241260). Be patient, it may take a minute or two to mine.
@@ -40,6 +43,7 @@ View on etherscan [here](https://ropsten.etherscan.io/address/0xa300cdc8b672eed8
 
 ### Viewing on IPFS
 If you want to view your uploaded files, got to [Pinata Explorer](https://pinata.cloud/pinexplorer) in your account and click the hash. 
+
 ![image](screenshot4.PNG)
 
 
