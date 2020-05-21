@@ -19,15 +19,44 @@ Click [here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html) to
 
 ## Instructions 
 
-If you would like to record your patent and transact on this chain, please install Metamask and make sure you are on the Ropsten Test Network.
+If you would like to record your patent and transact on this chain, please install Metamask and make sure MetaMask is on the Ropsten Test Network.
 
-If you need 
-
-
+![image](screenshot2.png)
 
 
+### Metamask
+
+Install Metamask to your Chrome browser [here](https://chrome.google.com/webstore/detail/metamask/). Metamask allows you to "talk" to the Ethereum network.
 
 
+### Ropsten Test Network
+
+This smart contract is deployed on Ropsten, so you will need to get free test ETH [here](https://faucet.ropsten.be/). This test ETH will be spent as "gas" to allow you to conduct operations on the chain. Make sure to use a valid address that will receive the test ETH.
+
+![image](screenshot3.png)
+
+
+### IPFS
+
+To store files on-chain in immutable and tamper-proof form for all time, we will use the Inter-Planetary File System using [Pinata.cloud](https://pinata.cloud/). Register on Pinata, and get your API keys from your Account profile. You will need those to upload files. Note that there is no restriction on file type. It can pdfs, docs, xls, jpgs, anything. Size limit is 1 gigabyte at this time.
+
+
+### Recording transactions
+
+To record transactions to create an immutable record on the blockchain, navigate [here](Click [here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html) and enter in your patent data. Click Register To Blockchain and wait for your new data to be mined. 
+
+![image](screenshot1.png)
+
+View on etherscan [here](https://ropsten.etherscan.io/address/0xa300cdc8b672eed8ce3413d6714d39bed9241260). Be patient, it may take a minute or two to mine.
+
+
+### Viewing on IPFS
+If you want to view your uploaded files, got to [Pinata Explorer](https://pinata.cloud/pinexplorer) in your account and click the hash. 
+
+![image](screenshot4.png)
+
+
+You're done. You now have a tamper-proof, immutable record of transactions on an auditable blockchain!
 
 
 
