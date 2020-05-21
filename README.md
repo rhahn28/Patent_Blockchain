@@ -9,8 +9,7 @@ This blockchain application is a patent rights management system built on the Et
 
 The smart contract is live on the Ropsten Testnet Ethereum Network at hash 0xA300cDC8b672EED8Ce3413D6714D39BEd9241260
 
-Navigate to this page to explore the transactions performed by this smart contract.
-[Smart Contract](https://ropsten.etherscan.io/address/0xa300cdc8b672eed8ce3413d6714d39bed9241260)
+Navigate to this [page](https://ropsten.etherscan.io/address/0xa300cdc8b672eed8ce3413d6714d39bed9241260) to explore the transactions performed by the smart contract on Ropsten Etherscan.
 
 ### dApp
 
