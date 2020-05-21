@@ -14,12 +14,16 @@ https://ropsten.etherscan.io/address/0xa300cdc8b672eed8ce3413d6714d39bed9241260
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the PatentBlock application in your browser.
+Click [here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html/) to go to the PatentBlock application in your browser. There, you will find a link that connects your directly to the smart contract, which allows you to transacton the blockchain.
 
 
-## Instructions for recording your own Patent
+## Instructions 
 
-If you would like to user the dApp to add your own patent asset, please install Metamask and make sure you are on the Ropsten Testnetwork.
+If you would like to record your patent and transact on this chain, please install Metamask and make sure you are on the Ropsten Test Network.
+
+If you need 
+
+
 
 
 
