@@ -42,7 +42,7 @@ To store files on-chain in an immutable and tamper-proof form for all time, we w
 
 ### Recording transactions
 
-To record transactions to create an immutable record on the blockchain, navigate [here](Click [here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html) and enter in your patent data. Click Register To Blockchain and wait for your new data to be mined. 
+To record transactions to create an immutable record on the blockchain, navigate [Click here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html) and enter in your patent data. Once you've entered in your patent data, and API keys, click "Register To Blockchain" and wait for your new data to be mined. 
 
 ![image](screenshot1.PNG)
 
@@ -55,7 +55,7 @@ If you want to view your uploaded files, got to [Pinata Explorer](https://pinata
 ![image](screenshot4.PNG)
 
 
-You're done. You now have a tamper-proof, immutable record of transactions on an auditable blockchain!
+You're done! You now have a tamper-proof, immutable record of all your patent transactions on an auditable blockchain for all-time.
 
 
 
