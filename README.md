@@ -7,5 +7,5 @@ This application is a patent rights management system built on the Ethereum bloc
 
 ### Demo App
 
-Click [here](patentRight_frontend/index.html) to launch the PatentBlock application.
+Click [here](https://github.com/rhahn28/patent_blockchain/blob/master/patentRight-frontend/index.html) to launch the PatentBlock application.
 
