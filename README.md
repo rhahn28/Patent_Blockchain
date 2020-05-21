@@ -1,5 +1,5 @@
 # Patent Blockchain
-By Roger c. Hahn
+By Roger C. Hahn
 
 Welcome to the world's first blockchain ledger to track patent grants, assignments, and licenses.
 
