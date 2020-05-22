@@ -42,7 +42,7 @@ View on etherscan [here](https://ropsten.etherscan.io/address/0xa300cdc8b672eed8
 
 
 ### Viewing on IPFS
-If you want to view your uploaded files, got to [Pinata Explorer](https://pinata.cloud/pinexplorer) in your account and click the hash. 
+If you want to view your uploaded files, go to [Pinata Explorer](https://pinata.cloud/pinexplorer) in your account and click the hash. 
 
 ![image](screenshot4.PNG)
 
