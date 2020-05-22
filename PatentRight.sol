@@ -15,15 +15,15 @@ contract PatentRight is IPatentRight {
     mapping(uint => patentGrant) public patentRights;
     
     modifier onlyPatentrightOwner(uint patentRight_id) {
-        require(patentRights[patentRight_id].owner == msg.sender, "You are not the owner of this patenet");
+        require(patentRights[patentRight_id].owner == msg.sender, "You are not the owner of this patent");
         _;
     }
     event Patent(uint patentRight_id, address owner, string reference_uri);
-    event License(uint patentRight_id, string reference_uri );   //OpenSource is License
-    event Assign(uint patentRight_id, address new_owner);    //Transfer is assign
+    event License(uint patentRight_id, string reference_uri );   //License
+    event Assign(uint patentRight_id, address new_owner);    //Assign
     // function copyrights(uint copyright_id) public returns(patentGrant memory) {
     // }
-    function patentGranted(string memory reference_uri) public {   // copyrightWork
+    function patentGranted(string memory reference_uri) public {   // granted patent
         patentRight_ids.increment();
         uint id = patentRight_ids.current();
         patentRights[id] = patentGrant(msg.sender, reference_uri);
