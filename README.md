@@ -1,4 +1,4 @@
-# IPChron Patent Blockchain
+# METASALT Patent Blockchain
 By Roger C. Hahn
 
 Welcome to the world's first blockchain ledger to record and track patent grants, assignments, and licenses. If you want to jump straight to the dApp, [click here](https://rhahn28.github.io/Patent_Blockchain/frontend/index.html). This webpage allows you to interact with the dApp in your browser and record transactions on the blockchain.
